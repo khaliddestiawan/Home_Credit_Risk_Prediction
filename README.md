@@ -49,7 +49,7 @@ Home Credit has numerous customers seeking loans and needs an effective system t
   
 #### Contract Type Insights
 
-![Contract type](images/contract_tpe.png)
+![Contract type](images/contract_type.png)
 
 - **Default Rate by Contract Type:** Cash loans have a higher default rate than revolving loans. 
   - **Recommendation:** Consider offering lower interest rates for revolving loans to increase revenue.
@@ -63,7 +63,7 @@ Home Credit has numerous customers seeking loans and needs an effective system t
 
 #### Age Insights
 
-![age](images/age)
+![age](images/age.png)
 
 - **Default Rate Trends by Age:** Increases with age, peaking at 8.3% for ages 36-40. 
   - **Recommendations:** 
@@ -72,7 +72,7 @@ Home Credit has numerous customers seeking loans and needs an effective system t
 
 #### Gender Insights
 
-![gender](images/gender)
+![gender](images/gender.png)
 
 - **Default Rates by Gender:** Female borrowers (7.0%) have a lower default rate compared to male borrowers (10.1%).
   - **Recommendations:** 
