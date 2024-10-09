@@ -43,6 +43,8 @@ Home Credit has numerous customers seeking loans and needs an effective system t
 
 ### Default Rate Analysis
 
+![Default Rate Chart](imbalanced img.png)
+
 - **Overall Default Rate:** 8%, indicating an imbalanced dataset.
   
 #### Contract Type Insights
