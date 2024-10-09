@@ -49,15 +49,21 @@ Home Credit has numerous customers seeking loans and needs an effective system t
   
 #### Contract Type Insights
 
+![Contract type](images/contract_tpe.png)
+
 - **Default Rate by Contract Type:** Cash loans have a higher default rate than revolving loans. 
   - **Recommendation:** Consider offering lower interest rates for revolving loans to increase revenue.
 
 #### Education Type Insights
 
+![education](images/education_type.png)
+
 - **Default Rate by Education Type:** Higher Education borrowers have a lower default rate (5.3%) compared to Secondary Special (8.2%).
   - **Recommendation:** Invest in financial literacy programs targeting Secondary Special borrowers to improve repayment rates.
 
 #### Age Insights
+
+![age](images/age)
 
 - **Default Rate Trends by Age:** Increases with age, peaking at 8.3% for ages 36-40. 
   - **Recommendations:** 
@@ -65,6 +71,8 @@ Home Credit has numerous customers seeking loans and needs an effective system t
     - Create tailored loan products for this age group.
 
 #### Gender Insights
+
+![gender](images/gender)
 
 - **Default Rates by Gender:** Female borrowers (7.0%) have a lower default rate compared to male borrowers (10.1%).
   - **Recommendations:** 
